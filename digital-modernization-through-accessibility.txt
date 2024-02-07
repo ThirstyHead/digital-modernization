@@ -1,0 +1,7 @@
+Digital Modernization Through Accessibility 
+
+ 
+
+Did you know that half of the US uses their voice, daily, for web searches? Did you know that 3 out of 4 Gen Zers (people 27 years old or younger) watch videos with closed captions on all the time? These accessibility features, long associated with people with disabilities, have broken through to mainstream success and are used by nearly everybody. Are you prepared to support these features in your app or website today?  
+
+In this talk, Scott Davis (author and digital accessibility advocate) shows you how to incorporate accessibility into your software development practices by “shifting accessibility left” in the process.  We’ll explore accessibility trends and demonstrate simple techniques and free tools that you can start using immediately.  
